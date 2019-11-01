@@ -221,3 +221,10 @@ footer nav a {
  .midaboutpar{
      padding-bottom: 3%;
  }
+
+ /* Prodcuts page */
+
+ .midaprodimg{
+     width: 400px;
+     height: auto;
+ }
