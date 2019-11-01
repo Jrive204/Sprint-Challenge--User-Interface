@@ -195,3 +195,9 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About page starts here */
+.top-about{
+    padding-left:1%;
+    padding-bottom: 1.5%;
+}
