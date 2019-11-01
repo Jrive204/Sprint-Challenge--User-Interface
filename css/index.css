@@ -219,11 +219,28 @@ footer nav a {
      
 
  }  
- .midaboutpar{
+ .midaboutpar{     
      padding-bottom: 3%;
  }
 
  /* Prodcuts page */
+ .midh2{
+     width: 380px;
+     /* background-color: red; */
+ }
+
+ .H2productspg{
+     text-align: center;
+     /* background-color: yellow; */
+ }
+ .prod{
+    text-align: center;
+    font:impact;     
+ }
+ .prodbutton{
+    margin-left: 150px;
+     display: flex;
+}
 
  .vr{
 width: 390px;
