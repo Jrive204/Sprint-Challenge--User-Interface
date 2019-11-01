@@ -65,7 +65,7 @@ table {
     align-items: flex-end
 }
 .jumbotopindex{
-    padding-bottom: 1.2%;
+    padding-bottom: 1%;
     margin: 0 auto;
     width: 800px;
     
@@ -199,5 +199,17 @@ footer nav a {
 /* About page starts here */
 .top-about{
     padding-left:1%;
-    padding-bottom: 1.5%;
+    padding-bottom: .4%;
 }
+
+.midaboutsec{
+    display:flex;
+    flex-flow: row wrap;
+    }
+ .midaboutdiv{
+     display: flex;
+     flex-flow: row wrap;
+     width: 300px;
+     
+
+ }  
